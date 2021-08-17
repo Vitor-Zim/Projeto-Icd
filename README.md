@@ -1,3 +1,4 @@
-# Projeto-Icd
+# Projeto-ICD
+Primeiro projeto da cadeira de Introdução a Ciências de Dados.
 
-Repositoria de Projetos de Programação de Introdução a Ciência de Dados 
+Nesse projeto serão usados dados da Polícia Federal sobre ocorrências nas BR's de todo o país.
